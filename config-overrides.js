@@ -1,5 +1,5 @@
 // npm i -D customize-cra react-app-rewire-alias
-// dodawanie sciezek z zewnatrz do naszej aplikacji - wczesniej trzeba dodac do package.json
+// dodawanie sciezek z zewnatrz do aplikacji - wczesniej trzeba dodac do package.json
 
 // stworzyc tsconfig.paths.json {
 //   "compilerOptions": {
