@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.add-form {
+    width: 800px;
+    margin: 50px auto;
+    border: black 2px solid;
+    padding: 5px;
+}
+
+.add-form label {
+    display: block;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 25px;
+
+}
+
+.add-form label small {
+    font-weight: normal;
+}
+
+.add-form input, .add-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.add-form button {
+    display: block;
+    padding: 5px;
+    width: 150px;
+    margin: 0 auto;
+    font-size: 15px;
+}
